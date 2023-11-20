@@ -1,0 +1,91 @@
+@import url("https://db.onlinewebfonts.com/c/ba01e35cb3995740ff018a4c09340546?family=Bailamore+FPU+Regular");
+@import url(https://db.onlinewebfonts.com/c/f364d16911e2d2639d5fcb6a913d0dc1?family=Fat+Albert+BT+W01+Outline);
+@import url(https://db.onlinewebfonts.com/c/5c1df21a40851df1d21f99888c7541f8?family=Londrina+Solid+Black);
+@import url(https://db.onlinewebfonts.com/c/55d824f54463436c1a8d662d8fd41fd9?family=Besans);
+@import url(https://db.onlinewebfonts.com/c/8d3cc511e423cf19da15f48353408740?family=Futura+Script);
+@import url(https://db.onlinewebfonts.com/c/0ed320446484c72ddf5bc6f08b6b6d22?family=PENNARELO);
+
+section {
+  font-family: "Besans";
+
+  border-radius: 25px;
+  background-color: #f6efdf;
+  margin-left: 50px;
+}
+
+#au {
+  font-family: "Bailamore FPU Regular", sans-serif;
+  color: rgba(248, 200, 68, 255);
+  -webkit-text-stroke: 5px rgb(9, 6, 1);
+  font-size: 90px;
+  text-decoration: underline;
+}
+#fleuve {
+  font-family: "Fat Albert BT W01 Outline";
+  color: black;
+  -webkit-text-stroke: 3px rgb(9, 6, 1);
+  font-size: 90px;
+}
+#mono {
+  font-family: "Londrina Solid Black";
+  color: rgba(248, 200, 68, 255);
+  -webkit-text-stroke: 5px rgb(9, 6, 1);
+  font-size: 90px;
+}
+
+#m1,
+#m2,
+#m3 {
+  border: 2px solid black;
+}
+
+#M1,
+#M2,
+#M3,
+#loaded {
+  border: 3px solid;
+
+  text-align: center;
+}
+#loaded {
+  margin-top: 25px;
+}
+
+#t1,
+#t2,
+#t3,
+#t4 {
+  margin: -20px;
+
+  text-align: left;
+}
+#price1 {
+  font-family: "PENNARELO";
+  color: red;
+  font-size: 20px;
+}
+#t4 {
+  text-align: end;
+}
+h4,
+h2 {
+  background-color: #f6efdf;
+  padding: 0 5px;
+}
+#loadedmenu {
+  text-align: start;
+}
+#loaded p {
+  font-size: 15px;
+}
+#pt1 {
+  font-family: "Futura Script";
+  color: rgba(255, 0, 0, 0.875);
+  font-size: 25px;
+}
+#price {
+  font-family: "PENNARELO";
+  color: red;
+  font-size: 20px;
+  text-decoration: underline;
+}
